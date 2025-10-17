@@ -22,4 +22,4 @@ Eine interaktive Web-Karte der Schweizer Gemeinden basierend auf SwissBOUNDARIES
 
 1. Repository klonen:
 ```bash
-git clone https://github.com/DEIN_USERNAME/schweiz-gemeinden-karte.git
+git clone https://github.com/DEIN_USERNAME/schweizer-gemeinden.git
