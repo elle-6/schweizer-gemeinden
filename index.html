@@ -2489,7 +2489,7 @@
             debugLog('Lade GeoJSON-Daten...');
 
             // GeoJSON laden - mit Fallback auf Beispieldaten
-            fetch('gemeinden_polygone.geojson')
+            fetch('gemeinden_light.geojson')
                 .then(response => {
                     if (!response.ok) {
                         console.warn('⚠️ GeoJSON-Datei nicht gefunden, verwende Beispieldaten');
